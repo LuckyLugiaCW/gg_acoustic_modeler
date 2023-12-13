@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gg_acoustic_analyzer"
+version = "1.0.1"
+authors = [
+  { name="Gino Giannoutsos", email="ggiannoutsos3763@floridapoly.edu" },
+]
+description = "Models and displays information about user-provided audio samples."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/LuckyLugiaCW/finalProject"
+Issues = "https://github.com/LuckyLugiaCW/finalProject/issues"
