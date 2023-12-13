@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "gg_acoustic_analyzer"
-version = "1.0.1"
+version = "1.1.0"
 authors = [
   { name="Gino Giannoutsos", email="ggiannoutsos3763@floridapoly.edu" },
 ]
@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/LuckyLugiaCW/finalProject"
-Issues = "https://github.com/LuckyLugiaCW/finalProject/issues"
+Homepage = "https://github.com/LuckyLugiaCW/gg_acoustic_modeler"
+Issues = "https://github.com/LuckyLugiaCW/gg_acoustic_modeler/issues"
